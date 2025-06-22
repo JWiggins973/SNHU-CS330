@@ -1,4 +1,4 @@
-### SNHU-CS330
+## SNHU-CS330
 This is my final project and a through reflection of what I learned in the course.
 
 #### How do I approach designing software?
