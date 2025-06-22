@@ -2,9 +2,16 @@
 *This is my final project and a through reflection of what I learned in the course.*
 
 ##### How do I approach designing software?
+How I approach designing software is by first outlining the entire project and defining the problem I'm trying to solve. Next, I break the outline down into steps that solve the problem. This approach allows me to create code that's structured, easy to test and maintain.
+
 ##### What new design skills has your work on the project helped you to craft?
+A new design skill I developed when working on this project is my attention to detail. When creating the 3D scene things like shape selection, texture choice and even the smallest adjustment to placement, lighting and adjusting material values can improve the appearance.
+
 ##### What design process did you follow for your project work?
+After breaking down each complex object I planned to build into individual shapes, I began to build each object piece by piece, compiling and making changes before moving to the next shape. After all the the objects were built, I gathered all the textures and applied them, changing them so everything looks like it belongs. I followed the same trial and error approach for setting up the adjusting the values for lighting and materials as well. 
+
 ##### How could tactics from your design approach be applied in future work?
+Breaking down the project into smaller steps can make the project seem less overwhelming and helps maintain structure and promote code tideness. Using a trial and error approach can help refine things that require extreme attention to detail and reduce the amount of testing required at the end.
 
 ##### How do I approach developing programs?
 ##### What new development strategies did you use while working on your 3D scene?
