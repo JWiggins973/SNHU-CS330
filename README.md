@@ -1,15 +1,10 @@
 # SNHU-CS330
-*This is my final project and my reflection of what I learned in the course.*
+*This is my final project and my reflection for the course.*
 
 ## Preview 👀
 <img src="preview.jpg" width="500"/>
 <img src="preview2.jpg" width="500"/>
 <img src="preview3.gif" width="500"/>
-
-## How to Build ⚙️
-- 📂Open the solution file
-- 🛠️Build the project
-- 🏃Run the `.exe` file
 
 ## Reflection 📝
 ### **How do I approach designing software?**
@@ -28,8 +23,13 @@ Breaking down the project into smaller steps can make the project seem less over
 To develop programs I take a similiar approach to the design process. I define the problem and brainstorm solutions and project structure. Followed by breaking the solution down into smaller steps and then coding each step while testing each before moving to the next.
 
 ### **What new development strategies did you use while working on your 3D scene?**
+A new developemnt stategies I used were carefully reviewing how neat and organized the program was structured, then adding new code that was consitent through out.
+
 ### **How did iteration factor into your development?**
+Iteration played a big role in development and helped bring the scene closer to the desired look. I started with basic shapes and continually tweaked their scale, position, and orientation to achieve the desired look.
+
 ### **How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?**
+At the start of the project, I focused more on achieving the correct visual outcome than on code readability and structure. While the code was fairly neat, there was still room for improvement. As the program grew, I shifted my focus toward writing cleaner, more organized code, which made development and debugging much more manageable.
 
 ### **How can computer science help me in reaching my goals?**
 ### **How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?**
