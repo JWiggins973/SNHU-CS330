@@ -2,8 +2,9 @@
 *This is my final project and my reflection of what I learned in the course.*
 
 ## Preview 👀
-![image](https://github.com/user-attachments/assets/62ed32b0-0f89-4c1e-acc5-56c4f94608ee)
-
+<img src="preview.jpg" width="600"/>
+<img src="preview2.jpg" width="600"/>
+![Preview](preview3.gif)
 
 ## How to Build ⚙️
 - 📂Open the solution file
