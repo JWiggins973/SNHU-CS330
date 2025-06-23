@@ -2,9 +2,9 @@
 *This is my final project and my reflection of what I learned in the course.*
 
 ## Preview 👀
-<img src="preview.jpg" width="600"/>
-<img src="preview2.jpg" width="600"/>
-<img src="preview3.gif" width="600"/>
+<img src="preview.jpg" width="500"/>
+<img src="preview2.jpg" width="500"/>
+<img src="preview3.gif" width="500"/>
 
 ## How to Build ⚙️
 - 📂Open the solution file
