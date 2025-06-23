@@ -5,6 +5,7 @@
 - 📂Open the solution file
 - 🛠️Build the project
 - 🏃Run the `.exe` file
+
 --
 
 ##### How do I approach designing software?
