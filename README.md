@@ -4,7 +4,7 @@
 ## Preview 👀
 <img src="preview.jpg" width="600"/>
 <img src="preview2.jpg" width="600"/>
-![Preview](preview3.gif)
+<img src="preview3.gif" width="600"/>
 
 ## How to Build ⚙️
 - 📂Open the solution file
