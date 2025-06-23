@@ -8,7 +8,7 @@
 - 🛠️Build the project
 - 🏃Run the `.exe` file
 
-
+## Reflection
 ##### How do I approach designing software?
 How I approach designing software is by first outlining the entire project and defining the problem I'm trying to solve. Next, I break the outline down into steps that solve the problem. This approach allows me to create code that's structured, easy to test and maintain.
 
