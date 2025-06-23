@@ -2,7 +2,7 @@
 *This is my final project and my reflection for the course.*
 
 ## Preview 👀
-<img src="preview.jpg" width="500"/>
+<img src="preview.jpg" width="450"/>
 <img src="preview2.jpg" width="500"/>
 <img src="preview3.gif" width="500"/>
 
@@ -32,5 +32,9 @@ Iteration played a big role in development and helped bring the scene closer to 
 At the start of the project, I focused more on achieving the correct visual outcome than on code readability and structure. While the code was fairly neat, there was still room for improvement. As the program grew, I shifted my focus toward writing cleaner, more organized code, which made development and debugging much more manageable.
 
 ### **How can computer science help me in reaching my goals?**
+Continuing to study computer science improves my problem solving abilities which I find very valuable and can be applied to all areas of your life.
+
 ### **How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?**
+The skills and knowledge gained in this course specifically the high level of attention to detail, will definitely help me in and UI or front end design classes in the future. Having completed this course I now have somewaht of a blueprint on designing and developing anything with visual output.
+
 ### **How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?**
