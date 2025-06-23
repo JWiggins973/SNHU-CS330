@@ -1,7 +1,7 @@
 # SNHU-CS330
 *This is my final project and my reflection of what I learned in the course.*
 
-## Preview
+## 👀 Preview
 
 ## How to Build
 - 📂Open the solution file
