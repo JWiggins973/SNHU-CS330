@@ -2,8 +2,8 @@
 *This is my final project and my reflection of what I learned in the course.*
 
 ## How to Build
--Open the solution file
--Build the project
+- Open the solution file
+- Build the project
 - Run the `.exe` file
 
 
