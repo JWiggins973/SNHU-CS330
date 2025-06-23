@@ -38,3 +38,4 @@ Continuing to study computer science improves my problem solving abilities which
 The skills and knowledge gained in this course specifically the high level of attention to detail, will definitely help me in and UI or front end design classes in the future. Having completed this course I now have somewaht of a blueprint on designing and developing anything with visual output.
 
 ### **How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?**
+As I complete my degree. I am not 100% sure what career path I want to take, but I am slightly toward the data analytics side. Understanding 3-D models are made will be beneficial when trying to visualize data in 3-D to showcase data sets with multiple variables or demensions. I will also have the tools to create more engaging presentations by implementing 3D animations.
