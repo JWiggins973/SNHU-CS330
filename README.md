@@ -2,7 +2,7 @@
 *This is my final project and my reflection for the course.*
 
 ## Preview 👀
-<img src="preview.jpg" width="450"/>
+<img src="preview.jpg" width="500"/>
 <img src="preview2.jpg" width="500"/>
 <img src="preview3.gif" width="500"/>
 
