@@ -1,6 +1,14 @@
 # SNHU-CS330
 *This is my final project and my reflection for the course.*
 
+## Project Checklist ✅
+- [x] Make 3D shapes (at least 4)
+- [x] Build one shape using smaller shapes
+- [x] Add textures to some shapes
+- [x] Add lights to the scene (at least 2)
+- [x] Move camera using keyboard and mouse
+- [x] Switch between 3D and 2D views
+
 ## Preview 👀
 <img src="preview.jpg" width="500"/>
 <img src="preview2.jpg" width="500"/>
