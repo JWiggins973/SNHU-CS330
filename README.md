@@ -1,5 +1,5 @@
 # SNHU-CS330
-*This is my final project and my reflection for the course.*
+*This is my final project and reflection for the course.*
 
 ## Project Checklist ✅
 - [x] Make 3D shapes (at least 4)
