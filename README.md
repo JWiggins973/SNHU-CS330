@@ -6,7 +6,7 @@
 - [x] Build one shape using smaller shapes
 - [x] Add textures to some shapes
 - [x] Add lights to the scene (at least 2)
-- [xxx] Move camera using keyboard
+- [x] Move camera using keyboard
 - [x] Use mouse scroll to control camera speed
 - [x] Switch between 3D and 2D views
 
