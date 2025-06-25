@@ -23,10 +23,10 @@ How I approach designing software is by first outlining the entire project and d
 - #### **What new design skills has your work on the project helped you to craft?**
     A new design skill I developed when working on this project is my improved attention to detail. When creating the 3D scene things likebshape selection, texture choice and even the smallest adjustment to placement, lighting and adjusting material values can improve the appearance.
 
-  - #### **What design process did you follow for your project work?**
+- #### **What design process did you follow for your project work?**
     After breaking down each complex object I planned to build into individual shapes, I began to build each object piece by piece, compiling and making changes before moving to the next shape. After all the the objects were built, I gathered all the textures and applied them,changing them so everything looks like it belongs. I followed the same trial and error approach for setting up the adjusting the values for lighting and materials as well. 
 
-  - #### **How could tactics from your design approach be applied in future work?**
+- #### **How could tactics from your design approach be applied in future work?**
     Breaking down the project into smaller steps can make the project seem less overwhelming and helps maintain structure and promote code tideness. Using a trial and error approach can help refine things that require extreme attention to detail and reduce the amount of testing required at the end.
 
 ### **2. How do I approach developing programs?**
@@ -44,7 +44,7 @@ To develop programs I take a similiar approach to the design process. I define t
 ### **3.How can computer science help me in reaching my goals?**
 Continuing to study computer science improves my problem solving abilities which I find very valuable and can be applied to all areas of your life.
 
- - #### **How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?*
+ - #### **How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?**
     The skills and knowledge gained in this course specifically the high level of attention to detail, will definitely help me in and UI or front end design classes in the future. Having completed this course I now have somewaht of a blueprint on designing and developing anything with visual output.
 
   - #### **How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?**
