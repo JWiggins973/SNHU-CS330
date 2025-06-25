@@ -21,7 +21,7 @@
 How I approach designing software is by first outlining the entire project and defining the problem I'm trying to solve. Next, I break the outline down into steps that solve the problem. This approach allows me to create code that's structured, easy to test and maintain.
 
 - #### **What new design skills has your work on the project helped you to craft?**
-A new design skill I developed when working on this project is my improved attention to detail. When creating the 3D scene things likebshape selection, texture choice and even the smallest adjustment to placement, lighting and adjusting material values can improve the
+- A new design skill I developed when working on this project is my improved attention to detail. When creating the 3D scene things likebshape selection, texture choice and even the smallest adjustment to placement, lighting and adjusting material values can improve the
 appearance.
 
   - #### **What design process did you follow for your project work?**
